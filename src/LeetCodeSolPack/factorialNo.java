@@ -1,19 +1,21 @@
 package LeetCodeSolPack;
 
+import java.math.BigInteger;
+
 class factorialNo {
    
-    public int factorial(int num) {
-       int factorial=1;
+    public BigInteger factorial(int num) {
+       BigInteger factorial=BigInteger.ONE;
        for(int i =1; i <=num;i++)
        {
-           factorial = factorial*i;
+           factorial = factorial.multiply(BigInteger.valueOf(i));
        }
 
        return factorial;
     }
     public static void main(String[] args) {
           factorialNo fact = new factorialNo();
-          System.out.println(fact.factorial(3));
+          System.out.println(fact.factorial(15));
 
      }
 }
