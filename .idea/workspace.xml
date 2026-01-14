@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/palindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/palindromeNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,10 @@
     "Application.barChartSolution.executor": "Run",
     "Application.factorialNo.executor": "Run",
     "Application.lengthOfLastWord.executor": "Run",
+    "Application.longestPrefix.executor": "Run",
+    "Application.palindromeNumber.executor": "Run",
     "Application.printFabonacciSeries.executor": "Run",
+    "Application.reverseStringInWords.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -66,24 +70,11 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseStringInWords">
+  <component name="RunManager" selected="Application.palindromeNumber">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="barChartSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.barChartSolution" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSolPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,8 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="printFabonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.printFabonacciSeries" />
+    <configuration name="longestPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.longestPrefix" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.palindromeNumber" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -143,18 +147,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.lengthOfLastWord" />
+      <item itemvalue="Application.longestPrefix" />
+      <item itemvalue="Application.palindromeNumber" />
       <item itemvalue="Application.reverseStringInWords" />
       <item itemvalue="Application.factorialNo" />
-      <item itemvalue="Application.barChartSolution" />
-      <item itemvalue="Application.printFabonacciSeries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.palindromeNumber" />
+        <item itemvalue="Application.longestPrefix" />
         <item itemvalue="Application.reverseStringInWords" />
         <item itemvalue="Application.lengthOfLastWord" />
         <item itemvalue="Application.factorialNo" />
-        <item itemvalue="Application.printFabonacciSeries" />
-        <item itemvalue="Application.barChartSolution" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +193,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768382217158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768385206186</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768385206186</updated>
+    </task>
+    <task id="LOCAL-00004" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768385234778</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768385234779</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
