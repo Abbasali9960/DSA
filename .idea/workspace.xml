@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/lengthOfLastWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Application.Java.executor": "Run",
     "Application.barChartSolution.executor": "Run",
     "Application.factorialNo.executor": "Run",
+    "Application.lengthOfLastWord.executor": "Run",
     "Application.printFabonacciSeries.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -65,7 +66,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lengthOfLastWord">
+  <component name="RunManager" selected="Application.reverseStringInWords">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -126,15 +127,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="reverseStringInWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseStringInWords" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.lengthOfLastWord" />
+      <item itemvalue="Application.reverseStringInWords" />
       <item itemvalue="Application.factorialNo" />
       <item itemvalue="Application.barChartSolution" />
       <item itemvalue="Application.printFabonacciSeries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseStringInWords" />
         <item itemvalue="Application.lengthOfLastWord" />
         <item itemvalue="Application.factorialNo" />
         <item itemvalue="Application.printFabonacciSeries" />
@@ -165,7 +181,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768381628360</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768382217158</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768382217158</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
