@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/LeetCodeSolPack/factorialNo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/LeetCodeSolPack/factorialNo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/factorialNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/factorialNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/lengthOfLastWord.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -60,7 +65,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.factorialNo">
+  <component name="RunManager" selected="Application.lengthOfLastWord">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -95,6 +100,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.lengthOfLastWord" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="printFabonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.printFabonacciSeries" />
       <module name="DSA" />
@@ -110,12 +128,14 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.lengthOfLastWord" />
       <item itemvalue="Application.factorialNo" />
       <item itemvalue="Application.barChartSolution" />
       <item itemvalue="Application.printFabonacciSeries" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lengthOfLastWord" />
         <item itemvalue="Application.factorialNo" />
         <item itemvalue="Application.printFabonacciSeries" />
         <item itemvalue="Application.barChartSolution" />
@@ -137,7 +157,20 @@
       <option name="presentableId" value="Default" />
       <updated>1768377793849</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768381628360</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768381628360</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
