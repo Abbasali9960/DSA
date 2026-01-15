@@ -1,6 +1,6 @@
 package LeetCodeSolPack;
 
-public class palindromeNumber {
+public class palindromeNumber9 {
 
 	  public boolean isPalindrome(int x) 
 	    {
@@ -30,7 +30,7 @@ public class palindromeNumber {
 			}
 	    }
 	  public static void main(String[] args) {
-		  palindromeNumber No = new palindromeNumber();
+		  palindromeNumber9 No = new palindromeNumber9();
 		  if(No.isPalindrome(1221))
 		  {
 			  System.out.println("Palindrome");

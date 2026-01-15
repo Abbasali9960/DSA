@@ -24,7 +24,7 @@ public class searchInsertInArray {
 		int [] val = {1,2,3,4}; 
 		int target = 3;
 		searchInsertInArray sI = new searchInsertInArray();
-	    System.out.print("Succes: Index is :"+sI.searchInsert(val, target));
+	    System.out.print("Success: Index is :"+sI.searchInsert(val, target));
 					
 	 }
 	 }
