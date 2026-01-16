@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/countOfCharacterInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,35 +40,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Java.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumSubarray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MissingNumber268.executor&quot;: &quot;Run&quot;,
-    &quot;Application.barChartSolution.executor&quot;: &quot;Run&quot;,
-    &quot;Application.factorialNo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lengthOfLastWord.executor&quot;: &quot;Run&quot;,
-    &quot;Application.longestPrefix.executor&quot;: &quot;Run&quot;,
-    &quot;Application.moveAllZeroesAtEnd283.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindromeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.palindromeNumber9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printFabonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.removeElementFromArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseStringInWords.executor&quot;: &quot;Run&quot;,
-    &quot;Application.searchInsertInArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.secondLargestNumberInArray.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Java.executor": "Run",
+    "Application.MaximumSubarray.executor": "Run",
+    "Application.MissingNumber268.executor": "Run",
+    "Application.barChartSolution.executor": "Run",
+    "Application.countOfCharacterInString.executor": "Run",
+    "Application.factorialNo.executor": "Run",
+    "Application.lengthOfLastWord.executor": "Run",
+    "Application.longestPrefix.executor": "Run",
+    "Application.moveAllZeroesAtEnd283.executor": "Run",
+    "Application.palindromeNumber.executor": "Run",
+    "Application.palindromeNumber9.executor": "Run",
+    "Application.printFabonacciSeries.executor": "Run",
+    "Application.removeElementFromArray.executor": "Run",
+    "Application.reverseStringInWords.executor": "Run",
+    "Application.reverseWordsInString.executor": "Run",
+    "Application.searchInsertInArray.executor": "Run",
+    "Application.secondLargestNumberInArray.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\abbhusai\Desktop\Automation Data\leetCode\DSA\src" />
@@ -76,7 +79,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.countOfCharacterInString">
+  <component name="RunManager" selected="Application.reverseWordsInString557">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -111,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="palindromeNumber9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.palindromeNumber9" />
+    <configuration name="removeElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.removeElementFromArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.removeElementFromArray" />
+    <configuration name="reverseWordsInString557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseWordsInString557" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -153,18 +156,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.countOfCharacterInString" />
+      <item itemvalue="Application.reverseWordsInString557" />
       <item itemvalue="Application.moveAllZeroesAtEnd283" />
       <item itemvalue="Application.removeElementFromArray" />
       <item itemvalue="Application.secondLargestNumberInArray" />
-      <item itemvalue="Application.palindromeNumber9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseWordsInString557" />
         <item itemvalue="Application.countOfCharacterInString" />
         <item itemvalue="Application.moveAllZeroesAtEnd283" />
         <item itemvalue="Application.secondLargestNumberInArray" />
         <item itemvalue="Application.removeElementFromArray" />
-        <item itemvalue="Application.palindromeNumber9" />
       </list>
     </recent_temporary>
   </component>
@@ -239,12 +242,36 @@
       <option name="project" value="LOCAL" />
       <updated>1768484816593</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768549237509</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768549237510</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
