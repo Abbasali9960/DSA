@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/reverseOnlyLettersInString917.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/reverseOnlyVowelsInString345.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,8 +55,10 @@
     "Application.palindromeNumber9.executor": "Run",
     "Application.printFabonacciSeries.executor": "Run",
     "Application.removeElementFromArray.executor": "Run",
+    "Application.reverseOnlyLettersInString917.executor": "Run",
     "Application.reverseStringInWords.executor": "Run",
     "Application.reverseWordsInString.executor": "Run",
+    "Application.reverseWordsInString557.executor": "Run",
     "Application.searchInsertInArray.executor": "Run",
     "Application.secondLargestNumberInArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -79,7 +81,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseOnlyLettersInString917">
+  <component name="RunManager" selected="Application.reverseOnlyVowelsInString345">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -127,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseWordsInString557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseWordsInString557" />
+    <configuration name="reverseOnlyVowelsInString345" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseOnlyVowelsInString345" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -140,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="secondLargestNumberInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.secondLargestNumberInArray" />
+    <configuration name="reverseWordsInString557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseWordsInString557" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -157,17 +159,17 @@
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.countOfCharacterInString" />
       <item itemvalue="Application.reverseOnlyLettersInString917" />
+      <item itemvalue="Application.reverseOnlyVowelsInString345" />
       <item itemvalue="Application.reverseWordsInString557" />
       <item itemvalue="Application.moveAllZeroesAtEnd283" />
-      <item itemvalue="Application.secondLargestNumberInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseOnlyVowelsInString345" />
         <item itemvalue="Application.reverseOnlyLettersInString917" />
         <item itemvalue="Application.reverseWordsInString557" />
         <item itemvalue="Application.countOfCharacterInString" />
         <item itemvalue="Application.moveAllZeroesAtEnd283" />
-        <item itemvalue="Application.secondLargestNumberInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +260,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768551264385</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768552205125</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1768552205125</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
