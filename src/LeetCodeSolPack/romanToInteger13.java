@@ -2,7 +2,7 @@ package LeetCodeSolPack;
 
 import java.util.HashMap;
 
-public class romanToInteger {
+public class romanToInteger13 {
     public int romanToInt(String s) {
         int result = 0;
         int previousValue = 0;
@@ -30,7 +30,7 @@ public class romanToInteger {
     }
 
     public static void main(String[] args) {
-        romanToInteger rti = new romanToInteger();
+        romanToInteger13 rti = new romanToInteger13();
         int val = rti.romanToInt("XV");
         System.out.println(val);
     }

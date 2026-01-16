@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/leadersInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/isValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/isValidParenthesis20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/romanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/romanToInteger13.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.romanToInteger">
+  <component name="RunManager" selected="Application.leadersInArray">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -96,6 +97,19 @@
     </configuration>
     <configuration name="isValidParenthesis20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.isValidParenthesis20" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="leadersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.leadersInArray" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -133,21 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseWordsInString557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseWordsInString557" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSolPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="romanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.romanToInteger" />
+    <configuration name="romanToInteger13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.romanToInteger13" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -162,18 +163,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.isValidParenthesis20" />
+      <item itemvalue="Application.leadersInArray" />
       <item itemvalue="Application.reverseOnlyLettersInString917" />
       <item itemvalue="Application.reverseOnlyVowelsInString345" />
-      <item itemvalue="Application.reverseWordsInString557" />
-      <item itemvalue="Application.romanToInteger" />
+      <item itemvalue="Application.romanToInteger13" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.romanToInteger" />
+        <item itemvalue="Application.leadersInArray" />
+        <item itemvalue="Application.romanToInteger13" />
         <item itemvalue="Application.isValidParenthesis20" />
         <item itemvalue="Application.reverseOnlyVowelsInString345" />
         <item itemvalue="Application.reverseOnlyLettersInString917" />
-        <item itemvalue="Application.reverseWordsInString557" />
       </list>
     </recent_temporary>
   </component>
@@ -288,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768555148862</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768559758923</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1768559758923</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
