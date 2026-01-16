@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated" />
+    <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/isValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/isValidParenthesis20.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +48,8 @@
     "Application.barChartSolution.executor": "Run",
     "Application.countOfCharacterInString.executor": "Run",
     "Application.factorialNo.executor": "Run",
+    "Application.isValidParenthesis.executor": "Run",
+    "Application.isValidParenthesis20.executor": "Run",
     "Application.lengthOfLastWord.executor": "Run",
     "Application.longestPrefix.executor": "Run",
     "Application.moveAllZeroesAtEnd283.executor": "Run",
@@ -57,6 +62,7 @@
     "Application.reverseStringInWords.executor": "Run",
     "Application.reverseWordsInString.executor": "Run",
     "Application.reverseWordsInString557.executor": "Run",
+    "Application.romanToInteger.executor": "Run",
     "Application.searchInsertInArray.executor": "Run",
     "Application.secondLargestNumberInArray.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -79,24 +85,11 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.isValidParenthesis20">
+  <component name="RunManager" selected="Application.romanToInteger">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="countOfCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.countOfCharacterInString" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSolPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -153,21 +146,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="romanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.romanToInteger" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.countOfCharacterInString" />
       <item itemvalue="Application.isValidParenthesis20" />
       <item itemvalue="Application.reverseOnlyLettersInString917" />
       <item itemvalue="Application.reverseOnlyVowelsInString345" />
       <item itemvalue="Application.reverseWordsInString557" />
+      <item itemvalue="Application.romanToInteger" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.romanToInteger" />
         <item itemvalue="Application.isValidParenthesis20" />
         <item itemvalue="Application.reverseOnlyVowelsInString345" />
         <item itemvalue="Application.reverseOnlyLettersInString917" />
         <item itemvalue="Application.reverseWordsInString557" />
-        <item itemvalue="Application.countOfCharacterInString" />
       </list>
     </recent_temporary>
   </component>
@@ -274,12 +280,31 @@
       <option name="project" value="LOCAL" />
       <updated>1768553055204</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768555148862</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1768555148862</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCodeSolPack/isValidParenthesis20.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
