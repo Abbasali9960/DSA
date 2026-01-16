@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/reverseOnlyLettersInString917.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,7 +79,7 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.reverseWordsInString557">
+  <component name="RunManager" selected="Application.reverseOnlyLettersInString917">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -114,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeElementFromArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.removeElementFromArray" />
+    <configuration name="reverseOnlyLettersInString917" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseOnlyLettersInString917" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -156,18 +156,18 @@
     <list>
       <item itemvalue="Application.Unnamed" />
       <item itemvalue="Application.countOfCharacterInString" />
+      <item itemvalue="Application.reverseOnlyLettersInString917" />
       <item itemvalue="Application.reverseWordsInString557" />
       <item itemvalue="Application.moveAllZeroesAtEnd283" />
-      <item itemvalue="Application.removeElementFromArray" />
       <item itemvalue="Application.secondLargestNumberInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.reverseOnlyLettersInString917" />
         <item itemvalue="Application.reverseWordsInString557" />
         <item itemvalue="Application.countOfCharacterInString" />
         <item itemvalue="Application.moveAllZeroesAtEnd283" />
         <item itemvalue="Application.secondLargestNumberInArray" />
-        <item itemvalue="Application.removeElementFromArray" />
       </list>
     </recent_temporary>
   </component>
@@ -250,28 +250,20 @@
       <option name="project" value="LOCAL" />
       <updated>1768549237510</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768551264385</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768551264385</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/LeetCodeSolPack/reverseWordsInString.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
