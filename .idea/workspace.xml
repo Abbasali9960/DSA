@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29772fb3-326c-4876-9f1a-933d0fc27135" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/src/LeetCodeSolPack/leadersInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/leadersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCodeSolPack/AnagramValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnagramValidator.executor": "Run",
     "Application.Java.executor": "Run",
     "Application.MaximumSubarray.executor": "Run",
     "Application.MissingNumber268.executor": "Run",
@@ -86,7 +88,20 @@
       <recent name="LeetCodeSolPack" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.leadersInArray">
+  <component name="RunManager" selected="Application.AnagramValidator">
+    <configuration name="AnagramValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.AnagramValidator" />
+      <module name="DSA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCodeSolPack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="openjdk-20" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -110,19 +125,6 @@
     </configuration>
     <configuration name="leadersInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.leadersInArray" />
-      <module name="DSA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCodeSolPack.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="reverseOnlyLettersInString917" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCodeSolPack.reverseOnlyLettersInString917" />
       <module name="DSA" />
       <extension name="coverage">
         <pattern>
@@ -162,19 +164,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
+      <item itemvalue="Application.AnagramValidator" />
       <item itemvalue="Application.isValidParenthesis20" />
       <item itemvalue="Application.leadersInArray" />
-      <item itemvalue="Application.reverseOnlyLettersInString917" />
       <item itemvalue="Application.reverseOnlyVowelsInString345" />
       <item itemvalue="Application.romanToInteger13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnagramValidator" />
         <item itemvalue="Application.leadersInArray" />
         <item itemvalue="Application.romanToInteger13" />
         <item itemvalue="Application.isValidParenthesis20" />
         <item itemvalue="Application.reverseOnlyVowelsInString345" />
-        <item itemvalue="Application.reverseOnlyLettersInString917" />
       </list>
     </recent_temporary>
   </component>
@@ -305,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768561076834</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="updated">
+      <option name="closed" value="true" />
+      <created>1768561172634</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1768561172634</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
